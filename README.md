@@ -10,10 +10,6 @@
 ---
 ![pythonicon](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![](https://github-readme-stats.vercel.app/api?username
-=ogimacode)](https://github.com/anuraghazra/githu
-b-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ogimacode)](https://github.com/anuraghazra/github-readme-stats)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?us
-ername=ogimacode)](https://github.com/anuraghazra/
-github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogimacode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
