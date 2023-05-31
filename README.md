@@ -10,11 +10,9 @@
 ---
 ![pythonicon](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-[![](https://github-readme-stats.vercel.app/api?username=ogimacode)](https://github.com/anuraghazra/github-readme-stats)
----
-![Matheus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogimacode&show_icons=true&theme=tokyonight)
+![Matheus Carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogimacode&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogimacode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogimacode&layout=donut&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 # Social media
 ---
