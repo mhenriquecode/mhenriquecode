@@ -49,7 +49,7 @@
 <h3 align="center">* Connect with me! *</h3>
 
 <div align="center">
-  <a href="www.linkedin.com/in/matheushcarvalho/" target="_blank">
+  <a href="https://www.linkedin.com/in/matheushcarvalho" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:souza.carvalho1@aluno.ifsp.edu.br" target="_blank">
