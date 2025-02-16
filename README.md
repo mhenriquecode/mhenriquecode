@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/matheushcarvalho" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:souza.carvalho1@aluno.ifsp.edu.br" target="_blank">
+  <a href="souza.carvalho1@aluno.ifsp.edu.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
   </a>
 </div>
