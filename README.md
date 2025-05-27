@@ -8,7 +8,7 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">I'm a software engineering student at the Federal Institute of São Paulo, focused on backend development.
-  Always looking to level up my skills in OOP, data structures, databases, DDD, TDD and software architecture. Feel free to contact me.
+  Always looking to level up my skills in OOP, data structures, databases, DDD, Software Testing and Software Architecture. Feel free to contact me.
 <br>
 <h3 align="left">languages</h3>
 <p align="left">-  Portuguese </p>
